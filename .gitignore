@@ -1,0 +1,21 @@
+﻿# Node.js dependencies
+user interface webapp/node_modules/
+
+# Build artifacts
+user interface webapp/dist/
+user interface webapp/build/
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Arduino
+*.ino.*
+
